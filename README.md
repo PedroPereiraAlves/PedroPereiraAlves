@@ -2,7 +2,7 @@
 
 # Pedro Pereira Alves
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXQ4dWhsdHJmNmF0Mnl4M2g4aGZ3N2Y1YnB6NnN4eG85bWFhZTFjNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/DRfu7BT8ZK1uo/giphy.gif" width="220px"/>
+<img src="https://media.giphy.com/media/lsdd32H2EqjXGRhWu4/giphy.gif" width="250px"/>
 
 <br>
 
