@@ -2,7 +2,7 @@
 
 # Pedro Pereira Alves
 
-<img src="https://media.giphy.com/media/lsdd32H2EqjXGRhWu4/giphy.gif" width="250px"/>
+<img src="https://media1.tenor.com/m/n9s1YyF-B-AAAAAC/pokemon-chandelure.gif" width="250px"/>
 
 <br>
 
